@@ -4,6 +4,7 @@ A collection of some handy scripts i wrote for everyday use
 # hex_to_rgb.py
 `$ hex_to_rgb.py "#XXXXXX"`
 Outputs RGB numbers in decimal for that color.
+Will be added soon.
 
 # replace.sh
 Is just a shorthand for `sed -i "s/$1/$2/g" $3`.
